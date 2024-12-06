@@ -1,1 +1,2 @@
-# naily-newsletter
+- a project for cse 170
+- naily newsletter is for users who seek inspiration for their next nail appointments
